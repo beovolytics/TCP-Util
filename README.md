@@ -27,9 +27,4 @@ The command line arguments shown are the default values, you can omit them to
 connect to localhost on port 8000. Or, of course, you can connect to some other
 host where the server is running.
 
-# License #
 
-This is "do whatever you want with it"-ware. There is nothing here that is
-particularly novel or valuable. Obviously this software comes with no warranty
-of any kind. It might cause your computer to become self-aware and destroy
-you. I take no responsibility for any outcomes, Skynet or otherwise.
